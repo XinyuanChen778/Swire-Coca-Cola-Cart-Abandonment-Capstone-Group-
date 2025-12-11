@@ -26,17 +26,8 @@ These findings come from the customer and behavior insights in the project prese
 
 We created two complementary models. The window level model predicts abandonment within a specific order cycle and reached AUC values up to 0.95. The customer level model identifies customers with repeated unstable behavior and reached an AUC of 0.868. These models help Swire identify risk earlier and support more reliable ordering behavior.
 
-### 2.3 Financial Impact
 
-The financial analysis shows the scale of the opportunity.
-- Total abandoned order windows 3092
-- Estimated revenue lost 246944 dollars
-- Average value at stake per abandoned order 79.87 dollars
-- A 25 percent recovery rate represents more than 53000 dollars in retained revenue
-
-These values appear in the financial impact section of the presentation. 
-
-### 2.4 Actionable Recommendations
+### 2.3 Actionable Recommendations
 
 We provide a set of targeted strategies to support order consistency and reduce cart abandonment. These include guiding chronic abandoners, improving reminders based on order schedules, recommending relevant product bundles, and offering support for consistently unstable customers. These ideas align closely with the project scope and intended business outcomes. 
 
